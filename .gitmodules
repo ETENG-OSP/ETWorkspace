@@ -4,3 +4,6 @@
 [submodule "packages/ETFramework"]
 	path = packages/ETFramework
 	url = ../../gengen1988/ETFramework.git
+[submodule "packages/deft"]
+	path = packages/deft
+	url = ../../gengen1988/DeftJS.git
