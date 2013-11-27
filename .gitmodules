@@ -1,3 +1,6 @@
 [submodule "touch"]
 	path = touch
 	url = ../../gengen1988/TouchBuild.git
+[submodule "packages/ETFramework"]
+	path = packages/ETFramework
+	url = ../../gengen1988/ETFramework.git
