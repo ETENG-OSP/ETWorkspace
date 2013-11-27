@@ -1,6 +1,3 @@
 [submodule "touch"]
 	path = touch
 	url = ../../gengen1988/TouchBuild.git
-[submodule "apps/Bootplate"]
-	path = apps/Bootplate
-	url = ../../gengen1988/Bootplate.git
