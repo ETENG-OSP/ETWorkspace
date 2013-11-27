@@ -1,0 +1,6 @@
+[submodule "touch"]
+	path = touch
+	url = ./touch
+[submodule "apps/Bootplate"]
+	path = apps/Bootplate
+	url = ./apps/Bootplate/
