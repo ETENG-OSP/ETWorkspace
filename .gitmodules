@@ -7,3 +7,6 @@
 [submodule "packages/deft"]
 	path = packages/deft
 	url = ../../gengen1988/DeftJS.git
+[submodule "devel/Bootplate"]
+	path = devel/Bootplate
+	url = ../../gengen1988/Bootplate.git
